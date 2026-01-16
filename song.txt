@@ -1,4 +1,5 @@
 one home
-two homethree off
+two home
+three off
 four the 
 five grid
